@@ -14,7 +14,13 @@ const data =[
     {
         name:"eyes",
         link:"https://freniix.github.io/eyes",
-    },]
+    },
+    {
+        name:"Python Quiz",
+        link:"https://freniix.github.io/quiz",
+    },
+
+]
 
 const wrapper = document.querySelector("#wrapper");
 data.forEach(item =>{
