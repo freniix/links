@@ -19,6 +19,10 @@ const data =[
         name:"Python Quiz",
         link:"https://freniix.github.io/quiz",
     },
+    {
+        name:"Tic Tac Toe",
+        link:"https://freniix.github.io/tictactoe/",
+    },
 
 ]
 
