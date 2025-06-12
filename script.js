@@ -23,6 +23,10 @@ const data =[
         name:"Tic Tac Toe",
         link:"https://freniix.github.io/tictactoe/",
     },
+     {
+        name:"Git find",
+        link:"https://freniix.github.io/gitfind/",
+    },
 
 ]
 
