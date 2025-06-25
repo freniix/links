@@ -27,6 +27,11 @@ const data =[
         name:"Git find",
         link:"https://freniix.github.io/gitfind/",
     },
+    
+     {
+        name:"Table Generator",
+        link:"https://freniix.github.io/table/",
+    },
 
 ]
 
