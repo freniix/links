@@ -30,7 +30,7 @@ const data =[
     
      {
         name:"Pop the bubbles",
-        link:"https://freniix.github.io/bubble/",
+        link:"https://freniix.github.io/bubbles/",
     },
 
 ]
