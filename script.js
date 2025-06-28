@@ -29,8 +29,8 @@ const data =[
     },
     
      {
-        name:"Table Generator",
-        link:"https://freniix.github.io/table/",
+        name:"Pop the bubbles",
+        link:"https://freniix.github.io/bubble/",
     },
 
 ]
